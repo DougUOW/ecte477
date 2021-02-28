@@ -16,3 +16,8 @@ expeience any hardware resource issues.
 ## Launch Codes
 `roslaunch ecte477 blocked_road.world`  
 `roslaunch ecte477 blocked_road_low_res.world`
+
+## Designed and Tested With:
+Ubuntu 16.04  
+ROS Kinetic Kame  
+Gazebo 7.0
