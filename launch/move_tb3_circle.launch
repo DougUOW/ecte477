@@ -1,0 +1,6 @@
+<!-- Example launch file that will launch the turtlebot3_move_circle.py script -->
+<launch>
+	<node pkg="ecte477" type="turtlebot3_move_circle.py" name="move_turtlebot3_node" output="screen">
+	</node>
+
+</launch>

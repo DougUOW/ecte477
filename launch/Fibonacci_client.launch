@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="ecte477" type="Fibonacci_client.py" name="fibonacci_client" output="screen" />
+</launch>
